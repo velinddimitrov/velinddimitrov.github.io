@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Velin Dimitrov, PhD"
+title                    : "Velin Dimitrov"
 title_separator          : "-"
-name                     : &name "Velin Dimitrov"
+name                     : &name "Velin Dimitrov, PhD"
 description              : &description "Sr. Hardware Integration Engineer at Toyota Research Institute"
 url                      : https://velinddimitrov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
