@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # the available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Velin Dimitrov"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Velin Dimitrov"
 description              : &description "Velin Dimitrov's Portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -30,7 +30,7 @@ author:
   location         : "Cambridge, MA"
   employer         : "Robotics and AI Institute"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "velinddimitrov (at) gmail.com" 
 
   # Academic websites
   academia         : # URL
