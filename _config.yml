@@ -23,7 +23,7 @@ repository               : "velinddimitrov/velinddimitrov.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "vdimitrov.jpg"
   name             : "Velin Dimitrov"
   pronouns         : # example: "she/her"  
   bio              : "Electrical Engineering Manager"
