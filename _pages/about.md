@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an electrical engineer with a deep focus on robotics, embedded systems, and research hardware. My work sits at the intersection of foundational research and real-world deployment, translating ideas into robust proof-of-concept systems demonstrating state-of-the-art dynamic robot behaviors.
 
-Currently, I'm an Electrical Engineering Manager at the Robotics and AI Institute in Cambridge, MA, where I support multiple concurrent research programs spanning embedded firmware, power distribution, sensing, and actuation. I lead and mentor teams of full-time engineers and co-ops, define electrical architecture standards, and partner closely with other teams to align hardware development with program-level objectives.
+Currently, I'm an Electrical Engineering Manager at the Robotics and AI Institute in Cambridge, MA, where I support multiple research programs spanning embedded firmware, power distribution, sensing, and actuation. I lead and mentor teams of full-time engineers and co-ops, define electrical/embedded architectures, and partner closely with other teams to align hardware development with program-level objectives.
 
 Engineering Philosophy
 ---
@@ -49,6 +49,6 @@ What I’m Interested In
 Outside of Work
 ---
 
-When not building cool robots at work, I enjoy traveling the world with my wife, learning about different cultures, and trying all the unique local cuisines. We gain a deep appreciation for commonalities that bring people around the world together and the differences that make differnt cultures unique and interesting.
+When not building cool robots at work, I enjoy traveling the world with my wife, learning about different cultures, and trying all the unique local cuisines. Traveling gives us a deep appreciation for what brings people together and what makes different cultures unique around the world.
 
-At home, I enjoy cooking which is a hand-on activity but allows for much broader creativity when compared to engineering. I aim to recreate our favorite flavors we experience in our travels at home through a combination of experimentation and guidance from the best library of hands-on learnings ... YouTube! 
+At home, I enjoy cooking where I aim to recreate our favorite flavors from our travels. Through a combination of experimentation and YouTube guides, we sometimes recreate the flavor and sometimes accidentally create new ones ... for better or worse! 
