@@ -7,7 +7,7 @@ redirect_from:
   - /portfolio/
 ---
 
-I have had the opportunity to work with some amazing robots over the years. These are the robots that have allowed me to grown and learn as an engineer and have kept me excited to work in this field.
+I have had the opportunity to work with some amazing robots over the years. These are the robots that have allowed me to grow and learn as an engineer and have kept me excited to work in this field.
 
 ## Athena
 

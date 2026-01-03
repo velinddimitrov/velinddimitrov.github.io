@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an electrical engineer with a deep focus on robotics, embedded systems, and research hardware. My work sits at the intersection of foundational research and real-world deployment, translating ideas into robust proof-of-concept systems demonstrating state-of-the-art dynamic robot behaviors.
+I'm a roboticist with a deep focus on electrical engineering, embedded systems, and research hardware. My work sits at the intersection of foundational research and real-world deployment, translating ideas into robust proof-of-concept systems demonstrating state-of-the-art dynamic robot behaviors.
 
 Currently, I'm an Electrical Engineering Manager at the Robotics and AI Institute in Cambridge, MA, where I support multiple research programs spanning embedded firmware, power distribution, sensing, and actuation. I lead and mentor teams of full-time engineers and co-ops, define electrical/embedded architectures, and partner closely with other teams to align hardware development with program-level objectives.
 
