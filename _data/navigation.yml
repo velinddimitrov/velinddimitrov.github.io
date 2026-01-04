@@ -19,6 +19,9 @@ main:
     
   - title: "Robot Portfolio"
     url: /robots/
+  
+  - title: "Papers"
+    url: /papers/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
